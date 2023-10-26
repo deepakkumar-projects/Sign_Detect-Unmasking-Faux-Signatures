@@ -1,5 +1,5 @@
-# Signature-Forgery-Detection
- Signature Forgery Detection
+# Sign_Detect - Unmasking faux Signatures 
+ Forged Signature Detection
 
 ## Details of folder is as follows -
 - Signature-Forgery.ipynb file contains model
